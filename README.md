@@ -11,9 +11,16 @@ This application is a Quiz-Board. The page contains five multi-choice questions 
 
 
 ## Dependencies
+* prettier
+* Eslint
+* Live server
+
 
 
 ## Set up and installation instructions
+* To access this project, you will need to clone it
+* Download files and resolve dependencies depending with your operating system 
+* Apps depend on Git and Git hub for a local and remote link 
 
 
 

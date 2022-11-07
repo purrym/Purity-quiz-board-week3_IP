@@ -4,6 +4,12 @@ const finishButton = document.querySelector("#submit_ans")
 
 
 
+
+
+
+
+
+
 let total = 0;
 
 let score = 0;
