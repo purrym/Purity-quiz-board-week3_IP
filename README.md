@@ -17,4 +17,4 @@ This application is a Quiz-Board. The page contains five multi-choice questions 
 
 
 
-## contact &lincense information 
+## contact & License information 
