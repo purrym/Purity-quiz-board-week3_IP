@@ -3,6 +3,14 @@ const myAnswers = document.querySelectorAll(".ouranswers");
 const finishButton = document.querySelector("#submit_ans")
 
 
+// quiz answers.for each(function(response){
+   // if(parseInt(response.value)>0){
+   // total += parseInt(response.value);
+   //}
+//else{
+// total=total;
+//}
+
 
 
 
@@ -37,7 +45,8 @@ finishButton.addEventListener("click", function (e) {
 
 
 
-
+// let score = (marks/total)*100;
+//alert("your score is" + "%");
 
 
     let percentageScore = (score / total) * 100;
