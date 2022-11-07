@@ -17,4 +17,7 @@ This application is a Quiz-Board. The page contains five multi-choice questions 
 
 
 
-## contact & License information 
+## Contact & License information 
+The License used is MIT
+
+Copyright (c) 2022 Purity Munene
